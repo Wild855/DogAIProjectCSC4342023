@@ -1,4 +1,3 @@
-##
 To Open Project:
 
 1. Download and Install Unity.
