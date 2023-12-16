@@ -7,7 +7,7 @@ To Open Project:
 5. Install Python.
 6. Install Anaconda.
 7. Install Flask.
-8. Create Anaconda Environment with required dependencies as specified in Dog-Breed-Identifier.py.
+8. Create Anaconda Environment with required dependencies as specified in dog_breed_identifier.py.
 9. Run Flask Server.
 10. Run Unity Project as well as Server.
 11. Input IP Address Information for Flask Server in Unity.
