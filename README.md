@@ -3,7 +3,7 @@ To Open Project:
 1. Download and Install Unity.
 2. Download and unzip Unity Project.
 3. Install required dependencies for Unity.
-4. Open Project.
+4. Open project.
 5. Install Python.
 6. Install Anaconda.
 7. Install Flask.
